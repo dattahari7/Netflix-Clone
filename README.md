@@ -1,4 +1,5 @@
 # Netflix Clone
+![](<netflix-clone feature.png>)
 
 A Netflix clone built with React.js and Firebase, replicating the core features of the popular streaming platform. This project showcases user authentication, data fetching, and dynamic content rendering, providing a seamless and responsive user experience.
 
@@ -21,5 +22,5 @@ A Netflix clone built with React.js and Firebase, replicating the core features 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/netflix-clone.git
+   git clone https://github.com/dattahari7/Netflix-Clone.git
    cd netflix-clone
